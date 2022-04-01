@@ -1,0 +1,22 @@
+.rodapePrincipal-patrocinadores .container{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.rodapePrincipal-patrocinadores-list{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 5%;
+    width: 70%;
+}
+
+.rodapePrincipal-contatoForm{
+    width: 25%;
+}
+
+.rodapePrincipal-contatoForm-fieldset{
+    display: flex;
+}

@@ -1,0 +1,8 @@
+.conteudoPrincipal-cursos{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.conteudoPrincipal-cursos-link{
+    width: 23%;
+}
